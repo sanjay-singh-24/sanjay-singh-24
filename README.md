@@ -8,19 +8,18 @@
 - 🔭 Currently building **web applications** and practicing **competitive coding**  
 - 🌱 Learning **advanced data structures and algorithms**  
 - 🏋️ Gym rat when AFK  
-- 🔗 Check out my Linktree: [linktr.ee/SanjaySinghKunwar](https://linktr.ee/SanjaySinghKunwar)  
-- 📫 Reach me at: **your-email-here@gmail.com**
+- 📫 Reach me at: **sanjaykunwar24@gmail.com**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/sanjay-singh-kunwar/" target="_blank">
+  <a href="https://www.linkedin.com/in/sanjay-kunwar-8a8803320" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay-singh-kunwar" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/sanjay-singh-kunwar/" target="_blank">
+<!--   <a href="https://leetcode.com/sanjay-singh-kunwar/" target="_blank">
     <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="sanjay-leetcode" height="30" width="40" />
-  </a>
+  </a> -->
 </p>
 
 ---
