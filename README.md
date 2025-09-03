@@ -38,9 +38,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjay-singh-kunwar&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-singh-kunwar&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
